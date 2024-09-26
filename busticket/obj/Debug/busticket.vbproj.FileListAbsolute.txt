@@ -1,0 +1,16 @@
+C:\Users\admin\Desktop\vb.net\busticket\obj\Debug\busticket.vbproj.AssemblyReference.cache
+C:\Users\admin\Desktop\vb.net\busticket\obj\Debug\busticket.loginpage.resources
+C:\Users\admin\Desktop\vb.net\busticket\obj\Debug\busticket.Resources.resources
+C:\Users\admin\Desktop\vb.net\busticket\obj\Debug\busticket.vbproj.GenerateResource.cache
+C:\Users\admin\Desktop\vb.net\busticket\obj\Debug\busticket.vbproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\vb.net\busticket\bin\Debug\busticket.exe.config
+C:\Users\admin\Desktop\vb.net\busticket\bin\Debug\busticket.exe
+C:\Users\admin\Desktop\vb.net\busticket\bin\Debug\busticket.pdb
+C:\Users\admin\Desktop\vb.net\busticket\bin\Debug\busticket.xml
+C:\Users\admin\Desktop\vb.net\busticket\obj\Debug\busticket.exe
+C:\Users\admin\Desktop\vb.net\busticket\obj\Debug\busticket.xml
+C:\Users\admin\Desktop\vb.net\busticket\obj\Debug\busticket.pdb
+C:\Users\admin\Desktop\vb.net\busticket\obj\Debug\busticket.createaccount.resources
+C:\Users\admin\Desktop\vb.net\busticket\obj\Debug\busticket.seatmapping.resources
+C:\Users\admin\Desktop\vb.net\busticket\obj\Debug\busticket.homepage.resources
+C:\Users\admin\Desktop\vb.net\busticket\obj\Debug\busticket.Payment.resources
